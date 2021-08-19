@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.2-ProjectBoost.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Omer\Desktop\DEVTOOLS\Unity\2-ProjectBoost\.idea\.idea.2-ProjectBoost\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
